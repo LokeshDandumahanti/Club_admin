@@ -1,0 +1,5 @@
+// For future interactivity. Currently, this script is a placeholder.
+document.addEventListener('DOMContentLoaded', () => {
+    console.log("New York Tech's Club Manifesto website loaded.");
+  });
+  
